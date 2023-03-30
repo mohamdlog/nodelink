@@ -2,7 +2,6 @@ import subprocess
 
 
 print("Hello, welcome to nodelink.\n")
-
 while True:
     start = input("Ready to start? (y/n) ").lower()
     if start == 'y':
