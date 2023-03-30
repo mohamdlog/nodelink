@@ -12,7 +12,6 @@ subprocess.run("colcon build", shell=True)
 
 print("""
 nodelink has been built. 
-Instructions:
 
     1. Type "source install/setup.bash"
     2. Type "ros2 run nodelink listener"
