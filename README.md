@@ -4,7 +4,7 @@
 Linux, ROS2
 
 **Features:**  
-Publisher node, Subscriber node
+Publisher/Subscriber Nodes
 
 **In-Progress:**  
 Synchronous publishing/subscribing 
