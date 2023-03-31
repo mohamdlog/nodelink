@@ -19,5 +19,4 @@ print("""
     4. Navigate to nodelink-main
     5. Type "source install/setup.bash"
     6. Type "ros2 run nodelink talker"
-    7. Enjoy
     """)
