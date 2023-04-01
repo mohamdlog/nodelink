@@ -9,7 +9,7 @@ while True:
 subprocess.run("colcon build", shell=True)
 
 print("""
-  nodelink build completed.
+  nodelink build complete.
   
   Instructions:
     1. Type "source install/setup.bash"
